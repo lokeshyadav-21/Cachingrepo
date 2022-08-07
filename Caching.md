@@ -100,7 +100,7 @@
 ## Staged, asynchronous processing
 #### Separating a process through asynchronicity into discrete, separate steps separated by queues and executed by a limited number of workers/threads in each step will quite often do wonders for both scalability and performance.
 ## Minimize network chatter
-#### ry to make the application as remotely untalkative as possible because network communications are considerably slower than in-memory ones.
+### ry to make the application as remotely untalkative as possible because network communications are considerably slower than in-memory ones.
 
 
 
